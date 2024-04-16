@@ -20,6 +20,7 @@ const Header = () => {
                 <li><Link to='/' className='link text-cyan-950 link-hover'>Home</Link></li>
                 <li><Link to='/stats' className='link text-cyan-950  link-hover'>Stats</Link></li>
                 <li><Link to='/about' className='link text-cyan-950  link-hover'>About</Link></li>
+                <li><Link to='/nightwave' className='link text-cyan-950  link-hover'>Nightwave</Link></li>
                 </ul>
             </div>
             </div>
